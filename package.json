@@ -1,0 +1,18 @@
+{
+  "name": "jsonresume",
+  "version": "0.1",
+  "author": "Shivam Padaliya",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shivamp25/resume"
+  },
+  "scripts": {
+    "start": "resume serve",
+    "build": ""
+  },
+  "license": "MIT",
+  "dependencies": {
+    "handlebars": "4.0.11",
+    "resume-cli": "0.4.19"
+  }
+}
