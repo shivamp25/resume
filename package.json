@@ -1,6 +1,6 @@
 {
   "name": "jsonresume",
-  "version": "0.1",
+  "version": "1.0.0",
   "author": "Shivam Padaliya",
   "repository": {
     "type": "git",
@@ -14,5 +14,8 @@
   "dependencies": {
     "handlebars": "4.0.11",
     "resume-cli": "0.4.19"
+  },
+  "engines": {
+    "node": "^4"
   }
 }
