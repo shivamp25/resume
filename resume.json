@@ -1,0 +1,159 @@
+{
+  "basics": {
+    "name": "Shivam Padaliya",
+    "label": "Software Engineer",
+    "picture": "",
+    "email": "shivampadaliya25@gmail.com",
+    "phone": "361-688-3322",
+    "website": "http://",
+    "summary": "Over four years of experience in Software and Web Development, and rich user interface design. Experienced with all stages of SLDC; problem-solver, ability to quickly grasp complex systems and identify opportunities for improvements and resolution of critical issues. Diverse work experience, ability to collaborate with a team, willingness to learn, and adaptability to work in diverse cultural environments are my strengths.",
+    "location": {
+      "address": "2344 N Limestone St",
+      "postalCode": "OH 45503",
+      "city": "Springfield",
+      "countryCode": "US",
+      "region": "Springfield"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "shivamp25",
+        "url": "https://github.com/shivamp25"
+      },
+      {
+        "network": "GitLab",
+        "username": "spadaliya",
+        "url": "http://gitlab.efhuttonmobile.com/spadaliya"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "shivampadaliya",
+        "url": "https://www.linkedin.com/in/shivampadaliya"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "HUTN INC",
+      "position": "Software Engineer",
+      "website": "https://www.hutn.co",
+      "startDate": "2017-03-28",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "company": "Harland Clark Holdings",
+      "position": "Front End Developer",
+      "website": "https://www.harlandclarke.com",
+      "startDate": "2016-11-07",
+      "endDate": "2017-03-05",
+      "summary": "",
+      "highlights": [
+        "Assisted the Advanced Solutions Team developing prototypes for internal clients",
+        "Contributed to multiple web applications using modern frameworks",
+        "Built a weekly status report generator for the team’s internal Sails.js project management web app",
+        "Migrated the front-end framework of the same Sails.js project from UI Bootstrap to Angular Material",
+        "Implemented user authentication as well as role and permission management in the Sails.js project",
+        "Researched and reported on NodeJS packages for the team’s development needs",
+        "Used the UI Bootstrap framework to build a sales competency evaluation prototype",
+        "Contributed to a check reordering web app using the Ionic Framework and WebRTC"
+      ]
+    },
+    {
+      "company": "Spica Computer LLC",
+      "position": "Software/Web Developer",
+      "website": "",
+      "startDate": "2016-07-15",
+      "endDate": "2016-11-05",
+      "summary": "",
+      "highlights": [
+        "Developed software based on requirements of government project using node JS technology and making high level database design using normalization concept",
+        "Performed debugging, troubleshooting and performance tuning to make efficient software performance. ",
+        "Involved in Unit Testing and Bug-Fixing and achieved the maximum code coverage using JUNIT test cases. ",
+        "Developed Single Page Applications using AngularJS MVC Framework and RESTful services.",
+        "Involved in development of commonly used angular components across teams such as customer directives for grid, pagination, conditional validations."
+      ]
+    },
+    {
+      "company": "AdvanSoft Inc",
+      "position": "UI Developer",
+      "website": "",
+      "startDate": "2016-01-15",
+      "endDate": "2016-05-05",
+      "summary": "",
+      "highlights": [
+        "Involved in web designing using HTML5, XHTML, CSS3, LESS/SASS JavaScript and extensively used Tableless Design in CSS for positioning.",
+        "Worked with business analysts to understand their business models and goals and help define strategy, content, and features.",
+        "Handled all the client side validations, slide show, hide and show controls, dropdown menus and tab navigation using JQuery.",
+        "Developed page layouts, navigation and icons.",
+        "Created prototypes in HTML, Photoshop, JavaScript and CSS for different UI pages.",
+        "Designated UI architecture for the internal web application and worked with Designers to construct UI using React.js."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Texas A&M University",
+      "area": "Computer Science",
+      "studyType": "Master of Science",
+      "startDate": "2014-08-25",
+      "endDate": "2016-05-13",
+      "courses": []
+    },
+    {
+      "institution": "G.C.E.T",
+      "area": "Computer Engineering",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2010-08-18",
+      "endDate": "2014-05-15",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Frameworks",
+      "level": "",
+      "keywords": [
+        "React",
+        "AngularJS",
+        "Node.js",
+        "Sails.js",
+        "Express.js",
+        "Angular Material",
+        "Ionic",
+        "Bootstrap"
+      ]
+    },
+    {
+      "name": "Languages",
+      "level": "",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "PHP",
+        "Java",
+        ".NET",
+        "C/C++"
+      ]
+    },
+    {
+      "name": "Cloud Platform",
+      "level": "",
+      "keywords": [
+        "AWS",
+        "EC2",
+        "RDS",
+        "S3",
+        "CloudFront"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "ga_analytics": ""
+}
